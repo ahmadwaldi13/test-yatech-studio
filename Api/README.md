@@ -9,10 +9,7 @@ npm install
 ## Database Configuration
 
 Create a .env file and add the database configuration as follows:
-
-DATABASE_URL=mysql://root@localhost:3306/shooping
-
-Also, make sure to update the configuration in the `.env.example` section with the same settings.
+make sure to update the configuration in the `.env.example` section with the same settings.
 
 ## Running the Server
 After completing all database setup, run the server with the following command:
@@ -20,8 +17,8 @@ After completing all database setup, run the server with the following command:
 npm run dev
 ```
 
-## Testing All APIs
-You can test all API endpoints with postman :
+## Testing API
+You can test API endpoints with postman :
 
 ```
 {
