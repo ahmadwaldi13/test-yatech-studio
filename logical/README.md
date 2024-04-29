@@ -1,4 +1,4 @@
-#Logic
+# Logic
 1. The function kategoriNilai accepts one parameter, which is value, representing the numeric value to be categorized.
 3. In the subsequent lines, we utilize the if...else if...else branching structure to check the value of the value parameter and determine the corresponding grade category.
 4. First, we check if the value is between 86 and 100. If it is, then the value falls into the 'A' category. If not, we proceed to the next branching.
